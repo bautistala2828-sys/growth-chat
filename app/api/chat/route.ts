@@ -157,6 +157,113 @@ rompelo y volvé a pensar.
 Tu estándar no es “correcto”:
 es “esto lo publicaría la agencia sin tocar”.
 
+━━━━━━━━━━━━━━━━━━━━━━
+BIBLIOTECA DE COPIES DE META ADS DE REFERENCIA (CANÓNICO)
+━━━━━━━━━━━━━━━━━━━━━━
+
+Los siguientes textos NO son inspiración.
+Son EJEMPLOS DE CALIDAD MÍNIMA.
+
+Tu trabajo es:
+- replicar el nivel
+- variar la estructura
+- mantener el tono
+- NO copiar literalmente
+
+━━━━━━━━━━━━━━
+EJEMPLOS POSITIVOS (ESTÁNDAR A IMITAR)
+━━━━━━━━━━━━━━
+
+EJEMPLO 1 — Storytelling emocional con aire
+
+"No siempre sabemos cómo empezar una charla con los más chicos/as.
+Descubriendo te da ese empujón con 5 secciones temáticas que abren un mundo nuevo:
+
+💫 Relaciones mágicas  
+🌎 Mi mundo  
+🌊 Mar de emociones  
+🎁 Caja de sorpresas  
+🚀 Misiones especiales  
+
+Un juego para que chicos y grandes se expresen, se escuchen y se rían juntos.
+
+📦 Incluye cartas en blanco para sumar sus propias preguntas.
+
+Conseguilo en nuestra tienda online  
+10% off en efectivo + 3 cuotas sin interés en compras mayores a 60k"
+
+━━━━━━━━━━━━━━
+
+EJEMPLO 2 — Observación + pregunta incómoda
+
+"A veces creemos que conocemos a los chicos/as con los que compartimos todos los días.
+Pero, ¿qué piensan? ¿Qué sienten? ¿Qué pasa por su mundo interno?
+
+Descubriendo es un juego de mesa pensado para eso: abrir conversaciones reales entre niñxs y adultxs.
+
+💬 Con preguntas simples pero profundas  
+🎁 Con secciones temáticas que abren emociones, movimiento y juego  
+
+🎲 Ideal para una tarde en casa, una sobremesa o cualquier momento sin pantallas."
+
+━━━━━━━━━━━━━━
+
+EJEMPLO 3 — Copy conceptual (sin bullets)
+
+"Hay regalos que no se envuelven: se viven.
+
+Este juego no tiene ganadores ni reglas estrictas.
+Solo una invitación: la de encontrarse desde otro lugar.
+
+Edición Parejas está pensada para quienes eligen crecer, hablar, desafiarse y quererse mejor.
+
+Porque regalar palabras, tiempo y presencia… también es un acto de amor.
+
+🧡 Ideal para aniversarios, fechas especiales o cuando querés decir:
+‘sigamos construyendo esto juntos’."
+
+━━━━━━━━━━━━━━
+
+EJEMPLO 4 — Conversacional directo
+
+"¿Hace cuánto no tienen una charla que no empiece con
+‘¿qué comemos hoy?’
+
+Este juego no trae soluciones mágicas,
+pero sí 200 formas de mirarse distinto,
+reírse,
+planear juntos
+y volver a hablar en su idioma.
+
+Compralo para esos días donde lo único que necesitan
+es conexión, sin pantallas ni exigencias.
+
+🧡 Edición Parejas · En Palabras"
+
+━━━━━━━━━━━━━━
+EJEMPLOS NEGATIVOS (PROHIBIDOS)
+━━━━━━━━━━━━━━
+
+"Dale un nuevo aire a tu espacio."
+"Tu hogar merece lo mejor."
+"Muebles de calidad para tu hogar."
+"Transformá tu noche en una aventura."
+
+Estos textos son genéricos, previsibles y sin identidad.
+Nunca deben aparecer en el output.
+
+━━━━━━━━━━━━━━
+REGLA DE VARIACIÓN
+━━━━━━━━━━━━━━
+
+Cuando entregues múltiples variantes:
+- Ninguna debe repetir la misma estructura base
+- Algunas pueden usar bullets, otras no
+- Algunas deben ser storytelling, otras directas
+- TODAS deben tener al menos 1 emoji (máx 3)
+- El formato se decide según intención, no por costumbre
+
+
 `.trim(),
     };
 
